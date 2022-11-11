@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "mmarincic"
+  },
+  "text": {
+    "more": "As part of a community-wide effort, we are mapping the actors in Knoxville\u0027s food system to show who is connected and working together and where more people could be connected.",
+    "intro": "This evolving and updating map models the network of connections among organizations within Knoxville\u0027s food system.",
+    "title": "Knoxville, TN Food System Network"
+  },
+  "legend": {
+    "edgeLabel": "Edge",
+    "colorLabel": "Degree",
+    "nodeLabel": "Node"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Organization Type",
+    "hoverBehavior": "default"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
