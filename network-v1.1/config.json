@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Three3, Inc."
+  },
+  "text": {
+    "more": "As part of a community-wide effort, we are mapping the actors in Knoxville\u0027s food system to show who is connected and working together and where more people could be connected. This evolving and updating map models the network of connections among organizations within Knoxville\u0027s food system.",
+    "intro": "To find a particular organization, type their name in the \u0027Search\u0027 box below and either press \u0027Enter\u0027 on your keyboard or click the black triangle to the right of the box. Then only the groups connected to this organization will appear on the map, and information about the organization and its connections will appear in a panel at the righthand side of the screen. Click on the gray area of the screen and drag to move the map around, and use the magnifying glass symbols at the bottom of the screen to zoom in or out for a better view.",
+    "title": "Food System Network in Knoxville"
+  },
+  "legend": {
+    "edgeLabel": "Partnership",
+    "colorLabel": "Connectedness",
+    "nodeLabel": "Organization"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": false,
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
