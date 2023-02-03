@@ -1,0 +1,1942 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="9992.332"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-5012.735840 -5049.409180 9992.332031 10005.878906"
+     height="10005.879" preserveAspectRatio="xMidYMid meet"
+     xmlns="http://www.w3.org/2000/svg" version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="5.0"
+              d="M 1837.430176,-4175.877441 C 1201.942627,-3642.640137 -551.144531,-3796.015625 -1084.381836,-4431.502930"
+              class="id_Big_Brothers,_Big_Sisters id_Wal-Mart"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 1837.430176,-4175.877441 C 1334.946777,-3824.034668 53.457520,-4049.995605 -298.385284,-4552.479004"
+              class="id_Big_Brothers,_Big_Sisters id_Y-12" stroke-opacity="0.8"
+              stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -890.050354,-4474.585449 C 1458.257202,-3953.978027 4199.807129,349.393616 3679.199951,2697.701172"
+              class="id_Wesley_House id_Joy_of_Music" stroke-opacity="0.8"
+              stroke="#d9f0ca"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 99.524910,4561.161133 C 420.805939,3975.543213 1781.154053,3579.038330 2366.771729,3900.319336"
+              class="id_Legislative_Affairs_for_the_City_of_Knoxville id_Knox_County_Health_Department"
+              stroke-opacity="0.8" stroke="#c6e9c9"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 99.524910,4561.161133 C -1084.356445,4934.437988 -3420.093506,3718.530273 -3793.369873,2534.648926"
+              class="id_Legislative_Affairs_for_the_City_of_Knoxville id_Policy_Makers"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 99.524910,4561.161133 C -1989.935547,4239.562500 -4641.728027,622.973999 -4320.129395,-1466.486450"
+              class="id_Legislative_Affairs_for_the_City_of_Knoxville id_Tennessee_Department_of_Agriculture"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3793.369873,-2534.648926 C -1957.037476,-1629.069946 -560.907471,2483.797119 -1466.486450,4320.129395"
+              class="id_Two_Chicks_and_a_Farm id_Market_Wagon"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -2366.771729,-3900.319336 C -1085.203613,-4883.701172 2312.221191,-4436.421875 3295.603027,-3154.853516"
+              class="id_UTK_Public_Health_Nutrition_Program id_Child_and_Adult_Care_Food_Program"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -2366.771729,-3900.319336 C -2216.530518,-2924.185547 -3455.369141,-1234.623047 -4431.502930,-1084.381836"
+              class="id_UTK_Public_Health_Nutrition_Program id_Telemon_Corporation"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -2366.771729,-3900.319336 C 67.762939,-4113.313477 4039.056152,-781.002686 4252.050293,1653.531982"
+              class="id_UTK_Public_Health_Nutrition_Program id_Head_Start_Program"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -2366.771729,-3900.319336 C -1028.957275,-2305.974121 -1413.753662,2092.264893 -3008.098877,3430.079346"
+              class="id_UTK_Public_Health_Nutrition_Program id_Nourish_Knoxville"
+              stroke-opacity="0.8" stroke="#97b3b9"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -2366.771729,-3900.319336 C -2378.957275,-3845.354004 -2479.683594,-3781.184326 -2534.648926,-3793.369873"
+              class="id_UTK_Public_Health_Nutrition_Program id_UTK_Medical_Center"
+              stroke-opacity="0.8" stroke="#d9f0ca"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -2366.771729,-3900.319336 C 125.493530,-3232.519043 2862.190430,1507.579590 2194.389893,3999.844727"
+              class="id_UTK_Public_Health_Nutrition_Program id_Knox_County_Schools"
+              stroke-opacity="0.8" stroke="#b3e1c8"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -2366.771729,-3900.319336 C -1528.138550,-4815.526855 1102.622803,-4930.388672 2017.830444,-4091.755371"
+              class="id_UTK_Public_Health_Nutrition_Program id_Boys_and_Girls_Club_of_Tennessee_Valley"
+              stroke-opacity="0.8" stroke="#c6e9c9"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3008.098877,3430.079346 C -2284.804199,3148.805664 -777.951538,3811.836914 -496.677643,4535.131348"
+              class="id_Nourish_Knoxville id_Local_Businesses"
+              stroke-opacity="0.8" stroke="#84acb8"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3008.098877,3430.079346 C -2521.766357,985.120361 1875.170410,-1952.818970 4320.129395,-1466.486450"
+              class="id_Nourish_Knoxville id_Downtown_Knoxville_Business_Alliance"
+              stroke-opacity="0.8" stroke="#84acb8"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3008.098877,3430.079346 C -3399.204590,889.025513 -174.282104,-3509.213867 2366.771729,-3900.319336"
+              class="id_Nourish_Knoxville id_Business_Sponsors"
+              stroke-opacity="0.8" stroke="#84acb8"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3008.098877,3430.079346 C -1961.168091,1521.776489 2471.682129,229.718506 4379.984863,1276.649292"
+              class="id_Nourish_Knoxville id_Grayson_Subaru"
+              stroke-opacity="0.8" stroke="#84acb8"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3008.098877,3430.079346 C -2840.750732,3408.047607 -2556.680664,3626.021729 -2534.648926,3793.369873"
+              class="id_Nourish_Knoxville id_Nonprofits_(Community_Booth)"
+              stroke-opacity="0.8" stroke="#84acb8"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3008.098877,3430.079346 C -3713.162109,3273.770508 -4536.293457,1981.712524 -4379.984863,1276.649292"
+              class="id_Nourish_Knoxville id_SNAP" stroke-opacity="0.8"
+              stroke="#71a4b7"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3008.098877,3430.079346 C -3663.223633,985.120361 -978.472534,-3665.004395 1466.486450,-4320.129395"
+              class="id_Nourish_Knoxville id_Beardsley_Farm"
+              stroke-opacity="0.8" stroke="#2d5ba2"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3008.098877,3430.079346 C -3984.822266,3074.581055 -4916.659668,1076.248291 -4561.161133,99.524910"
+              class="id_Nourish_Knoxville id_Soil_Conservation"
+              stroke-opacity="0.8" stroke="#84acb8"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3008.098877,3430.079346 C -2122.322021,1291.624756 2414.024414,-587.391602 4552.479004,298.385284"
+              class="id_Nourish_Knoxville id_Farm_Bureau" stroke-opacity="0.8"
+              stroke="#84acb8"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3008.098877,3430.079346 C -3809.401855,1069.516602 -1470.512451,-3673.282227 890.050354,-4474.585449"
+              class="id_Nourish_Knoxville id_Bank_of_America"
+              stroke-opacity="0.8" stroke="#84acb8"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3008.098877,3430.079346 C -1839.076782,2449.153320 1385.845581,2731.297119 2366.771729,3900.319336"
+              class="id_Nourish_Knoxville id_Knox_County_Health_Department"
+              stroke-opacity="0.8" stroke="#5e9db7"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3008.098877,3430.079346 C -1870.577881,2557.228760 1144.979858,2954.234375 2017.830444,4091.755371"
+              class="id_Nourish_Knoxville id_Knox_Education_Foundation"
+              stroke-opacity="0.8" stroke="#4b96b6"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3008.098877,3430.079346 C -4380.130859,2058.047607 -4380.130859,-2058.047607 -3008.098877,-3430.079346"
+              class="id_Nourish_Knoxville id_UTK_Extension" stroke-opacity="0.8"
+              stroke="#84acb8"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3008.098877,3430.079346 C -2086.133057,1334.752808 2439.804932,-425.288086 4535.131348,496.677643"
+              class="id_Nourish_Knoxville id_Farmers_Markets"
+              stroke-opacity="0.8" stroke="#84acb8"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -298.385284,4552.479004 C -1008.722473,4865.035156 -2543.062012,4268.363281 -2855.617920,3558.025879"
+              class="id_Little_Chefs,_Big_Change id_Nourish_Kids_Program"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3008.098877,-3430.079346 C -2483.488281,-2305.048340 -3384.118652,169.413940 -4509.149902,694.024536"
+              class="id_UTK_Extension id_Senior_Centers" stroke-opacity="0.8"
+              stroke="#d9f0ca"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3008.098877,-3430.079346 C -517.801636,-3813.372559 3792.583984,-652.867065 4175.877441,1837.430176"
+              class="id_UTK_Extension id_Health_Departments"
+              stroke-opacity="0.8" stroke="#b3e1c8"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3008.098877,-3430.079346 C -2389.887695,-2242.506104 -3243.930176,466.170441 -4431.502930,1084.381836"
+              class="id_UTK_Extension id_Schools" stroke-opacity="0.8"
+              stroke="#d9f0ca"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3008.098877,-3430.079346 C -2188.152588,-2143.021729 -2888.819824,1017.483948 -4175.877441,1837.430176"
+              class="id_UTK_Extension id_Recreational_Centers"
+              stroke-opacity="0.8" stroke="#d9f0ca"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3008.098877,-3430.079346 C -481.616211,-3706.774414 3723.149902,-332.092773 3999.844727,2194.389893"
+              class="id_UTK_Extension id_Housing_Centers" stroke-opacity="0.8"
+              stroke="#d9f0ca"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 3679.199951,-2697.701172 C 2912.171631,-2579.644043 1584.543457,-3553.101074 1466.486450,-4320.129395"
+              class="id_City_of_Knoxville_Office_of_Solid_Waste id_Beardsley_Farm"
+              stroke-opacity="0.8" stroke="#94a6b4"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 3679.199951,-2697.701172 C 4736.318359,-1729.030518 4868.990234,1309.653320 3900.319336,2366.771729"
+              class="id_City_of_Knoxville_Office_of_Solid_Waste id_Ijams"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 3679.199951,-2697.701172 C 4640.223633,-851.592346 3312.595215,3359.105957 1466.486450,4320.129395"
+              class="id_City_of_Knoxville_Office_of_Solid_Waste id_Knoxville_Botanical_Garden_and_Aboretum"
+              stroke-opacity="0.8" stroke="#c6e9c9"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -1837.430176,4175.877441 C -2276.969727,4263.307129 -3067.423828,3735.142578 -3154.853516,3295.603027"
+              class="id_Museum_of_Infinite_Outcomes id_O&apos;Connor_Senior_Center"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -1837.430176,4175.877441 C -3527.036621,3388.000732 -4879.631836,-328.223846 -4091.755371,-2017.830444"
+              class="id_Museum_of_Infinite_Outcomes id_The_Native_Plant_Rescue_Squad"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -1837.430176,4175.877441 C -2666.210449,1734.368896 -247.118530,-3171.064209 2194.389893,-3999.844727"
+              class="id_Museum_of_Infinite_Outcomes id_Bridge_Refugee_Services"
+              stroke-opacity="0.8" stroke="#d9f0ca"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 2194.389893,-3999.844727 C 3736.597168,-2241.294189 3412.082520,2709.843018 1653.531982,4252.050293"
+              class="id_Bridge_Refugee_Services id_Knoxville_Area_Transit_(KAT)"
+              stroke-opacity="0.8" stroke="#c6e8c9"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 2194.389893,-3999.844727 C 3758.142578,-2293.308350 3543.966553,2612.124756 1837.430176,4175.877441"
+              class="id_Bridge_Refugee_Services id_Knoxville_-_Knox_County_CAC"
+              stroke-opacity="0.8" stroke="#b3e1c8"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 2194.389893,-3999.844727 C 2916.572021,-3999.844727 3999.844727,-2916.572021 3999.844727,-2194.389893"
+              class="id_Bridge_Refugee_Services id_Community_Assistant_Teams"
+              stroke-opacity="0.8" stroke="#c6e8c9"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 2194.389893,-3999.844727 C 3658.657715,-2091.573486 2992.652832,2967.235107 1084.381836,4431.502930"
+              class="id_Bridge_Refugee_Services id_Knoxville_Farmers_Market"
+              stroke-opacity="0.8" stroke="#c6e8c9"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 4091.755371,-2017.830444 C 3648.820557,-2086.004639 3086.679443,-2852.668213 3154.853516,-3295.603027"
+              class="id_Community_Garden_and_Cultural_Orientation_Coordinator_-_AmeriCorps_member id_Cherokee_Health_Systems"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 2194.389893,-3999.844727 C 1838.573730,-1688.070679 -2162.811523,1245.866455 -4474.585449,890.050354"
+              class="id_Bridge_Refugee_Services id_Second_Harvest"
+              stroke-opacity="0.8" stroke="#6c8aae"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 1276.649292,-4379.984863 C 2037.797974,-4531.386719 3406.624023,-3616.766602 3558.025879,-2855.617920"
+              class="id_BattleField_Farm_and_Gardens id_City_of_Knoxville"
+              stroke-opacity="0.8" stroke="#a0dac7"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 1276.649292,-4379.984863 C 2517.983643,-2117.331055 986.004456,3138.650391 -1276.649292,4379.984863"
+              class="id_BattleField_Farm_and_Gardens id_Magpies_Bakery"
+              stroke-opacity="0.8" stroke="#a0dac7"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 1276.649292,-4379.984863 C 2149.060547,-4514.261719 3659.092773,-3407.060303 3793.369873,-2534.648926"
+              class="id_BattleField_Farm_and_Gardens id_Coffeehouses_in_Knoxville"
+              stroke-opacity="0.8" stroke="#a0dac7"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 1276.649292,-4379.984863 C 2417.020020,-4429.774414 4202.260742,-2793.902832 4252.050293,-1653.531982"
+              class="id_BattleField_Farm_and_Gardens id_Concord_United_Methodist"
+              stroke-opacity="0.8" stroke="#8dd2c6"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 1276.649292,-4379.984863 C 965.179138,-2356.330566 -2537.507080,211.945251 -4561.161133,-99.524910"
+              class="id_BattleField_Farm_and_Gardens id_St._Francis"
+              stroke-opacity="0.8" stroke="#a0dac7"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 1276.649292,-4379.984863 C 1981.712524,-1961.022583 -589.136597,2725.016113 -3008.098877,3430.079346"
+              class="id_BattleField_Farm_and_Gardens id_Nourish_Knoxville"
+              stroke-opacity="0.8" stroke="#4b96b6"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 1276.649292,-4379.984863 C 856.681458,-2485.632813 -2614.797852,-274.056641 -4509.149902,-694.024536"
+              class="id_BattleField_Farm_and_Gardens id_Tabernacle_Baptist"
+              stroke-opacity="0.8" stroke="#a0dac7"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 1276.649292,-4379.984863 C 890.954590,-4056.348633 -173.041534,-4149.436523 -496.677643,-4535.131348"
+              class="id_BattleField_Farm_and_Gardens id_Women_in_Agriculture"
+              stroke-opacity="0.8" stroke="#a0dac7"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 1276.649292,-4379.984863 C 1326.587769,-2091.334473 -2031.479126,1416.547974 -4320.129395,1466.486450"
+              class="id_BattleField_Farm_and_Gardens id_SEEED"
+              stroke-opacity="0.8" stroke="#8dd2c6"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 1276.649292,-4379.984863 C 2937.951172,-4011.683105 4877.451660,-967.277466 4509.149902,694.024536"
+              class="id_BattleField_Farm_and_Gardens id_Five_Points"
+              stroke-opacity="0.8" stroke="#a0dac7"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 1276.649292,-4379.984863 C 1377.612793,-4429.774414 1603.742310,-4353.013672 1653.531982,-4252.050293"
+              class="id_BattleField_Farm_and_Gardens id_Bethel_AME_Church"
+              stroke-opacity="0.8" stroke="#a0dac7"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 1276.649292,-4379.984863 C 1812.920410,-1961.022461 -1011.116821,2471.827637 -3430.079346,3008.098877"
+              class="id_BattleField_Farm_and_Gardens id_Pane_Avenue_Baptist_Church"
+              stroke-opacity="0.8" stroke="#a0dac7"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 2534.648926,-3793.369873 C 2870.789307,-3815.401855 3408.047363,-3344.239258 3430.079346,-3008.098877"
+              class="id_Catholic_Charities id_Churches" stroke-opacity="0.8"
+              stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 2534.648926,-3793.369873 C 4061.773193,-2331.466309 4159.604492,2152.075684 2697.701172,3679.199951"
+              class="id_Catholic_Charities id_Knights_of_Columbus"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -4552.479004,298.385284 C -3394.950684,-1925.205933 1676.728149,-3524.300293 3900.319336,-2366.771729"
+              class="id_Society_of_St._Andrew id_Cokesbury_United_Methodist_Church"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -4552.479004,298.385284 C -4742.294922,-1434.812744 -2427.222656,-4319.333984 -694.024536,-4509.149902"
+              class="id_Society_of_St._Andrew id_Westpark_Baptist_Church"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -4552.479004,298.385284 C -2598.483154,-1341.212036 2791.905518,-869.614136 4431.502930,1084.381836"
+              class="id_Society_of_St._Andrew id_Good_Samaritan"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -4552.479004,298.385284 C -2418.931396,-812.269287 2447.371338,722.070313 3558.025879,2855.617920"
+              class="id_Society_of_St._Andrew id_KARM" stroke-opacity="0.8"
+              stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -4552.479004,298.385284 C -4774.587402,-1388.694580 -2577.130371,-4252.477051 -890.050354,-4474.585449"
+              class="id_Society_of_St._Andrew id_Wesley_House"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -4552.479004,298.385284 C -2695.298340,135.903137 334.195557,2677.950928 496.677643,4535.131348"
+              class="id_Society_of_St._Andrew id_Ladies_of_Charity"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -4552.479004,298.385284 C -4774.587402,45.119423 -4727.851074,-667.941956 -4474.585449,-890.050354"
+              class="id_Society_of_St._Andrew id_Teen_Challenge"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -4552.479004,298.385284 C -3032.235840,431.389404 -951.377747,2911.259766 -1084.381836,4431.502930"
+              class="id_Society_of_St._Andrew id_Love_Kitchen"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -4552.479004,298.385284 C -4858.983398,-1242.516357 -3007.388184,-4013.625000 -1466.486450,-4320.129395"
+              class="id_Society_of_St._Andrew id_Volunteer_Ministry_Center"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -4552.479004,298.385284 C -4221.363770,509.328918 -4041.106934,1322.416992 -4252.050293,1653.531982"
+              class="id_Society_of_St._Andrew id_Restoration_House_of_East_Tennessee"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -4552.479004,298.385284 C -3394.950684,581.630615 -2083.526367,2742.791260 -2366.771729,3900.319336"
+              class="id_Society_of_St._Andrew id_New_Life_United_Methodist_Church"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -4552.479004,298.385284 C -4708.021973,135.903168 -4697.613770,-341.134583 -4535.131348,-496.677643"
+              class="id_Society_of_St._Andrew id_Susannah&apos;s_House"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -4552.479004,298.385284 C -4955.078125,-365.078064 -4563.782715,-1964.172119 -3900.319336,-2366.771729"
+              class="id_Society_of_St._Andrew id_Thrive_Lonsdale"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -4552.479004,298.385284 C -2769.522949,-1564.114990 2698.661133,-1683.431152 4561.161133,99.524910"
+              class="id_Society_of_St._Andrew id_Faith_Lutheran"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -4552.479004,298.385284 C -3233.970703,-1874.449219 2003.042969,-3155.938477 4175.877441,-1837.430176"
+              class="id_Society_of_St._Andrew id_Concord_Baptist_Church"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -4552.479004,298.385284 C -2544.337402,-1242.516113 2779.228027,-541.655396 4320.129395,1466.486450"
+              class="id_Society_of_St._Andrew id_Habitat_for_Humanity"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -4552.479004,298.385284 C -4977.040527,-868.087280 -3864.173828,-3254.638428 -2697.701172,-3679.199951"
+              class="id_Society_of_St._Andrew id_UTK_Kitchen_Garden"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3679.199951,2697.701172 C -4770.535645,1506.717163 -4621.063477,-1916.763062 -3430.079346,-3008.098877"
+              class="id_Pellissippi_State_Community_College id_UTK_College_of_Social_Work"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3679.199951,2697.701172 C -2632.081543,452.148071 2306.925781,-1345.503784 4552.479004,-298.385284"
+              class="id_Pellissippi_State_Community_College id_East_Tennessee_State_University"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3679.199951,2697.701172 C -2590.572998,2354.458008 -442.767975,3472.534180 -99.524910,4561.161133"
+              class="id_Pellissippi_State_Community_College id_Lincoln_Memorial_University"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3679.199951,2697.701172 C -2200.171387,1562.802490 1720.719238,2078.997314 2855.617920,3558.025879"
+              class="id_Pellissippi_State_Community_College id_King_University"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3679.199951,2697.701172 C -4721.747070,1783.411865 -4914.133789,-1151.842773 -3999.844727,-2194.389893"
+              class="id_Pellissippi_State_Community_College id_Three_Rivers_Market"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3679.199951,2697.701172 C -4152.324219,319.143982 -1294.175293,-3958.378418 1084.381836,-4431.502930"
+              class="id_Pellissippi_State_Community_College id_Banks"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3008.098877,-3430.079346 C -3003.191895,-3205.201660 -3333.148193,-2860.524902 -3558.025879,-2855.617920"
+              class="id_UTK_Extension id_USDA" stroke-opacity="0.8"
+              stroke="#d9f0ca"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3008.098877,-3430.079346 C -1524.163452,-2070.302979 -1337.924927,2195.264648 -2697.701172,3679.199951"
+              class="id_UTK_Extension id_North_Carolina_A&amp;T"
+              stroke-opacity="0.8" stroke="#d9f0ca"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 1466.486450,-4320.129395 C 1622.430054,-4384.723633 1953.236450,-4247.699219 2017.830444,-4091.755371"
+              class="id_Beardsley_Farm id_Boys_and_Girls_Club_of_Tennessee_Valley"
+              stroke-opacity="0.8" stroke="#5b90b2"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 2194.389893,3999.844727 C 2221.146729,3890.498047 2425.302246,3766.613037 2534.648926,3793.369873"
+              class="id_Knox_County_Schools id_Knox_County_Foundation"
+              stroke-opacity="0.8" stroke="#a0dac7"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 4561.161133,-99.524910 C 3098.105225,-324.710815 1241.300537,-2857.073486 1466.486450,-4320.129395"
+              class="id_Extension_Agency_for_Knox_County id_Beardsley_Farm"
+              stroke-opacity="0.8" stroke="#94a6b4"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 4561.161133,-99.524910 C 4188.537598,-348.504150 4003.071045,-1280.908447 4252.050293,-1653.531982"
+              class="id_Extension_Agency_for_Knox_County id_Concord_United_Methodist"
+              stroke-opacity="0.8" stroke="#d9f0ca"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 4561.161133,-99.524910 C 3048.166748,-298.714600 1077.459595,-2866.990479 1276.649292,-4379.984863"
+              class="id_Extension_Agency_for_Knox_County id_BattleField_Farm_and_Gardens"
+              stroke-opacity="0.8" stroke="#b3e1c8"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 4561.161133,-99.524910 C 4826.157227,1403.341064 2969.352295,4055.133545 1466.486450,4320.129395"
+              class="id_Extension_Agency_for_Knox_County id_Knoxville_Botanical_Garden_and_Aboretum"
+              stroke-opacity="0.8" stroke="#c6e9c9"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 2017.830444,-4091.755371 C 1861.886841,-4027.161377 1531.080444,-4164.185547 1466.486450,-4320.129395"
+              class="id_Boys_and_Girls_Club_of_Tennessee_Valley id_Beardsley_Farm"
+              stroke-opacity="0.8" stroke="#5b90b2"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 2017.830444,-4091.755371 C 1669.590332,-3910.473145 875.306885,-4160.909668 694.024536,-4509.149902"
+              class="id_Boys_and_Girls_Club_of_Tennessee_Valley id_American_Heart_Association"
+              stroke-opacity="0.8" stroke="#a0dac7"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 2017.830444,-4091.755371 C 3505.542480,-3586.745361 4979.595703,-597.661743 4474.585449,890.050354"
+              class="id_Boys_and_Girls_Club_of_Tennessee_Valley id_Food_Policy_Council"
+              stroke-opacity="0.8" stroke="#7acbc6"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -4091.755371,2017.830444 C -4247.698730,-361.409790 -912.753784,-4164.186035 1466.486450,-4320.129395"
+              class="id_Real_Good_Kitchen id_Beardsley_Farm"
+              stroke-opacity="0.8" stroke="#94a6b4"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -4091.755371,2017.830444 C -3592.574463,2083.549072 -2942.380371,2930.898438 -3008.098877,3430.079346"
+              class="id_Real_Good_Kitchen id_Nourish_Knoxville"
+              stroke-opacity="0.8" stroke="#97b3b9"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -4091.755371,2017.830444 C -4915.817383,434.822327 -3777.397949,-3175.782715 -2194.389893,-3999.844727"
+              class="id_Real_Good_Kitchen id_United_Way_of_Greater_Knoxville"
+              stroke-opacity="0.8" stroke="#a0dac8"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -4091.755371,2017.830444 C -2389.334717,711.517090 2123.766113,1305.678223 3430.079346,3008.098877"
+              class="id_Real_Good_Kitchen id_KEC" stroke-opacity="0.8"
+              stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -4091.755371,2017.830444 C -3007.546143,-307.263672 2106.408936,-2168.591064 4431.502930,-1084.381836"
+              class="id_Real_Good_Kitchen id_East_Knoxville_Business_and_Professional_Association"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -890.050354,-4474.585449 C -534.030273,-2684.751221 -2684.751465,534.030273 -4474.585449,890.050354"
+              class="id_Wesley_House id_Second_Harvest" stroke-opacity="0.8"
+              stroke="#7f92af"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 99.524910,4561.161133 C -748.216187,4956.469727 -2612.790527,4277.820313 -3008.098877,3430.079346"
+              class="id_Legislative_Affairs_for_the_City_of_Knoxville id_Nourish_Knoxville"
+              stroke-opacity="0.8" stroke="#97b3b9"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 99.524910,4561.161133 C -2071.459229,3307.742920 -3447.808105,-1828.860596 -2194.389893,-3999.844727"
+              class="id_Legislative_Affairs_for_the_City_of_Knoxville id_United_Way_of_Greater_Knoxville"
+              stroke-opacity="0.8" stroke="#a0dac8"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 2366.771729,3900.319336 C 2352.200439,3954.700684 2248.771240,4014.416016 2194.389893,3999.844727"
+              class="id_Knox_County_Health_Department id_Knox_County_Schools"
+              stroke-opacity="0.8" stroke="#7acbc6"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 2366.771729,3900.319336 C 2186.280762,2876.702881 3450.968750,1070.541504 4474.585449,890.050354"
+              class="id_Knox_County_Health_Department id_Food_Policy_Council"
+              stroke-opacity="0.8" stroke="#7acbc6"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 2366.771729,3900.319336 C 262.534668,2623.436768 -978.497192,-2448.241943 298.385284,-4552.479004"
+              class="id_Knox_County_Health_Department id_After_School_Programs"
+              stroke-opacity="0.8" stroke="#b3e1c8"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 2366.771729,3900.319336 C 181.216309,2701.282471 -1298.561768,-2375.605713 -99.524910,-4561.161133"
+              class="id_Knox_County_Health_Department id_YMCA"
+              stroke-opacity="0.8" stroke="#a0dac7"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 2366.771729,3900.319336 C 698.568359,2371.692627 489.203613,-2423.552002 2017.830444,-4091.755371"
+              class="id_Knox_County_Health_Department id_Boys_and_Girls_Club_of_Tennessee_Valley"
+              stroke-opacity="0.8" stroke="#8dd3c7"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 2366.771729,3900.319336 C -17.973389,2972.942383 -2204.026123,-1995.239746 -1276.649292,-4379.984863"
+              class="id_Knox_County_Health_Department id_WIC"
+              stroke-opacity="0.8" stroke="#b3e1c8"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 2366.771729,3900.319336 C 2335.270752,3178.824707 3370.260742,2049.331299 4091.755371,2017.830444"
+              class="id_Knox_County_Health_Department id_Housing"
+              stroke-opacity="0.8" stroke="#b3e1c8"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 2366.771729,3900.319336 C 2153.988281,4356.634766 1150.340088,4721.933105 694.024536,4509.149902"
+              class="id_Knox_County_Health_Department id_Knoxville-Knox_County_CAC"
+              stroke-opacity="0.8" stroke="#b3e1c8"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 2366.771729,3900.319336 C 1085.203613,4883.701172 -2312.221191,4436.421875 -3295.603027,3154.853516"
+              class="id_Knox_County_Health_Department id_Office_on_Aging"
+              stroke-opacity="0.8" stroke="#b3e1c8"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 2366.771729,3900.319336 C 492.686279,4724.937012 -3555.367188,3150.734863 -4379.984863,1276.649292"
+              class="id_Knox_County_Health_Department id_SNAP"
+              stroke-opacity="0.8" stroke="#a0dac7"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 2366.771729,3900.319336 C 542.624634,2436.286621 2.453491,-2495.982422 1466.486450,-4320.129395"
+              class="id_Knox_County_Health_Department id_Beardsley_Farm"
+              stroke-opacity="0.8" stroke="#5b90b2"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 2366.771729,3900.319336 C 1197.749634,4881.245117 -2027.172729,4599.101563 -3008.098877,3430.079346"
+              class="id_Knox_County_Health_Department id_Nourish_Knoxville"
+              stroke-opacity="0.8" stroke="#5e9db7"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 2366.771729,3900.319336 C 396.446411,4666.537109 -3708.367676,2860.375732 -4474.585449,890.050354"
+              class="id_Knox_County_Health_Department id_Second_Harvest"
+              stroke-opacity="0.8" stroke="#5983ad"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 2366.771729,3900.319336 C 2335.270508,4008.394775 2125.905762,4123.256348 2017.830444,4091.755371"
+              class="id_Knox_County_Health_Department id_Knox_Education_Foundation"
+              stroke-opacity="0.8" stroke="#7acbc6"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3154.853516,-3295.603027 C -3147.490967,-3407.934814 -2967.949707,-3565.388428 -2855.617920,-3558.025879"
+              class="id_UTK_Dept_of_Public_Health id_UTK_Food_Insecurity_Community_of_Scholars"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3154.853516,-3295.603027 C -791.835022,-3984.360352 3785.828369,-1472.968140 4474.585449,890.050354"
+              class="id_UTK_Dept_of_Public_Health id_Food_Policy_Council"
+              stroke-opacity="0.8" stroke="#b3e1c8"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3154.853516,-3295.603027 C -3103.609131,-3628.544189 -2527.331055,-4051.089111 -2194.389893,-3999.844727"
+              class="id_UTK_Dept_of_Public_Health id_United_Way_of_Greater_Knoxville"
+              stroke-opacity="0.8" stroke="#a0dac8"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3154.853516,-3295.603027 C -625.915283,-2906.362061 2583.630859,1470.906494 2194.389893,3999.844727"
+              class="id_UTK_Dept_of_Public_Health id_Knox_County_Schools"
+              stroke-opacity="0.8" stroke="#b3e1c8"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3154.853516,-3295.603027 C -2581.669189,-2194.526123 -3373.508545,316.866058 -4474.585449,890.050354"
+              class="id_UTK_Dept_of_Public_Health id_Second_Harvest"
+              stroke-opacity="0.8" stroke="#9299b0"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3793.369873,-2534.648926 C -2443.370117,-1498.757446 -1972.207397,2080.079590 -3008.098877,3430.079346"
+              class="id_Two_Chicks_and_a_Farm id_Nourish_Knoxville"
+              stroke-opacity="0.8" stroke="#97b3b9"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3793.369873,-2534.648926 C -3098.494629,-3943.716309 57.419067,-5015.004395 1466.486450,-4320.129395"
+              class="id_Two_Chicks_and_a_Farm id_Beardsley_Farm"
+              stroke-opacity="0.8" stroke="#94a6b4"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3793.369873,-2534.648926 C -1262.162354,-3038.137207 3289.881592,3.441284 3793.369873,2534.648926"
+              class="id_Two_Chicks_and_a_Farm id_Interfaith_Health_Clinic"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3793.369873,-2534.648926 C -3793.369873,-3038.137207 -3038.137207,-3793.369873 -2534.648926,-3793.369873"
+              class="id_Two_Chicks_and_a_Farm id_UTK_Medical_Center"
+              stroke-opacity="0.8" stroke="#d9f0ca"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 2855.617920,-3558.025879 C 3410.884521,-1053.379883 486.815552,3536.488770 -2017.830444,4091.755371"
+              class="id_Century_Harvest_Farms_Foundation id_Mutual_Aid_Space_Knoxville"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 2855.617920,-3558.025879 C 3803.790039,-3281.659180 4811.498047,-1444.849976 4535.131348,-496.677643"
+              class="id_Century_Harvest_Farms_Foundation id_East_Tennessee_Harm_Reduction"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 2855.617920,-3558.025879 C 3713.006836,-1202.369873 1465.605713,3617.196777 -890.050354,4474.585449"
+              class="id_Century_Harvest_Farms_Foundation id_Loudon_County_Health_Improvement_Council"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 2855.617920,-3558.025879 C 2375.432373,-3406.624023 1428.051147,-3899.799561 1276.649292,-4379.984863"
+              class="id_Century_Harvest_Farms_Foundation id_BattleField_Farm_and_Gardens"
+              stroke-opacity="0.8" stroke="#b3e1c8"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 2855.617920,-3558.025879 C 2425.370850,-1117.973755 -1880.077393,1896.733398 -4320.129395,1466.486450"
+              class="id_Century_Harvest_Farms_Foundation id_SEEED"
+              stroke-opacity="0.8" stroke="#d9f0ca"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -2366.771729,-3900.319336 C 140.064697,-3286.900391 2980.190674,1393.482910 2366.771729,3900.319336"
+              class="id_UTK_Public_Health_Nutrition_Program id_Knox_County_Health_Department"
+              stroke-opacity="0.8" stroke="#c6e9c9"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -2366.771729,-3900.319336 C -1830.260498,-2520.682617 -3094.948730,353.539154 -4474.585449,890.050354"
+              class="id_UTK_Public_Health_Nutrition_Program id_Second_Harvest"
+              stroke-opacity="0.8" stroke="#9299b0"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -2366.771729,-3900.319336 C -2352.200439,-3954.700684 -2248.771240,-4014.416016 -2194.389893,-3999.844727"
+              class="id_UTK_Public_Health_Nutrition_Program id_United_Way_of_Greater_Knoxville"
+              stroke-opacity="0.8" stroke="#a0dac8"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -2366.771729,-3900.319336 C -1876.378540,-4634.244629 -39.900887,-4999.542969 694.024536,-4509.149902"
+              class="id_UTK_Public_Health_Nutrition_Program id_American_Heart_Association"
+              stroke-opacity="0.8" stroke="#d9f0ca"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -2366.771729,-3900.319336 C -2045.490723,-4485.937012 -685.142700,-4882.441895 -99.524910,-4561.161133"
+              class="id_UTK_Public_Health_Nutrition_Program id_YMCA"
+              stroke-opacity="0.8" stroke="#d9f0ca"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -298.385284,4552.479004 C 140.887268,3554.156494 2297.280273,2715.581055 3295.603027,3154.853516"
+              class="id_Little_Chefs,_Big_Change id_Karen_Holst_(University_Assisted_Community_Schools_at_Pond_Gap)"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -298.385284,4552.479004 C -179.031158,4433.125000 179.031158,4433.125000 298.385284,4552.479004"
+              class="id_Little_Chefs,_Big_Change id_Lauren_Woods_(UTK_Extension)"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -298.385284,4552.479004 C -386.178955,4622.940918 -623.562500,4596.943848 -694.024536,4509.149902"
+              class="id_Little_Chefs,_Big_Change id_Lori_Labotka_(linguistic_anthropologist)"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -298.385284,4552.479004 C 138.431595,3666.702148 2122.322021,2993.262451 3008.098877,3430.079346"
+              class="id_Little_Chefs,_Big_Change id_Kimberly_Pettigrew_(United_Way_of_Greater_Knoxville)"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -298.385284,4552.479004 C -1064.807983,4869.941895 -2690.636230,4196.501953 -3008.098877,3430.079346"
+              class="id_Little_Chefs,_Big_Change id_Nourish_Knoxville"
+              stroke-opacity="0.8" stroke="#97b3b9"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 3679.199951,-2697.701172 C 3398.504150,-2709.956543 2995.843506,-3149.383545 3008.098877,-3430.079346"
+              class="id_City_of_Knoxville_Office_of_Solid_Waste id_Chad_Hellwinckel_(UTK_Dept_of_Agricultural_and_Resource_Economics)"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 3679.199951,-2697.701172 C 2862.232910,-2553.647705 1420.702637,-3563.017822 1276.649292,-4379.984863"
+              class="id_City_of_Knoxville_Office_of_Solid_Waste id_BattleField_Farm_and_Gardens"
+              stroke-opacity="0.8" stroke="#b3e1c8"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 3679.199951,-2697.701172 C 2301.783447,-902.617310 -2456.966553,-276.115723 -4252.050293,-1653.531982"
+              class="id_City_of_Knoxville_Office_of_Solid_Waste id_Tennessee_Department_of_Environment_and_Conservation"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -1837.430176,4175.877441 C -1147.796631,3543.944824 834.553589,3630.495605 1466.486450,4320.129395"
+              class="id_Museum_of_Infinite_Outcomes id_Knoxville_Botanical_Garden_and_Aboretum"
+              stroke-opacity="0.8" stroke="#c6e9c9"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -1837.430176,4175.877441 C -2875.848145,1815.892700 -893.498291,-3281.711426 1466.486450,-4320.129395"
+              class="id_Museum_of_Infinite_Outcomes id_Beardsley_Farm"
+              stroke-opacity="0.8" stroke="#94a6b4"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 4091.755371,-2017.830444 C 3106.241943,-1953.236572 1531.080566,-3334.615967 1466.486450,-4320.129395"
+              class="id_Community_Garden_and_Cultural_Orientation_Coordinator_-_AmeriCorps_member id_Beardsley_Farm"
+              stroke-opacity="0.8" stroke="#94a6b4"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3295.603027,-3154.853516 C -2626.178955,-4314.330566 117.172531,-5049.409180 1276.649292,-4379.984863"
+              class="id_UTK_Dept_of_Agricultural_and_Resource_Economics id_BattleField_Farm_and_Gardens"
+              stroke-opacity="0.8" stroke="#b3e1c8"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3295.603027,-3154.853516 C -3227.428955,-3597.788330 -2460.765381,-4159.929688 -2017.830444,-4091.755371"
+              class="id_UTK_Dept_of_Agricultural_and_Resource_Economics id_University_of_Tennessee"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3008.098877,-3430.079346 C -2612.790527,-4277.820313 -748.216187,-4956.469727 99.524910,-4561.161133"
+              class="id_UTK_Extension id_4-H_Club" stroke-opacity="0.8"
+              stroke="#d9f0ca"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3008.098877,-3430.079346 C -1636.067139,-2058.047607 -1636.067139,2058.047607 -3008.098877,3430.079346"
+              class="id_UTK_Extension id_Nourish_Knoxville" stroke-opacity="0.8"
+              stroke="#84acb8"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3900.319336,2366.771729 C -4724.936523,1734.020752 -5012.735840,-452.032043 -4379.984863,-1276.649292"
+              class="id_Provision_CARES_Foundation id_Tennessee_Cancer_Specialists"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3900.319336,2366.771729 C -2830.584961,72.718628 2215.096680,-1763.759033 4509.149902,-694.024536"
+              class="id_Provision_CARES_Foundation id_East_Tennessee_Children&apos;s_Hospital"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3900.319336,2366.771729 C -4796.271484,645.664001 -3558.538086,-3279.925537 -1837.430176,-4175.877441"
+              class="id_Provision_CARES_Foundation id_University_of_Tennessee_Cancer_Institute"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3900.319336,2366.771729 C -3954.700684,2352.200439 -4014.416016,2248.771240 -3999.844727,2194.389893"
+              class="id_Provision_CARES_Foundation id_Provision_Radiation_Therapy"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3900.319336,2366.771729 C -2462.283203,1734.020630 643.898193,2941.948730 1276.649292,4379.984863"
+              class="id_Provision_CARES_Foundation id_Knoxville_Breast_Cancer_Center"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3900.319336,2366.771729 C -3073.906250,2294.469971 -1725.833740,3425.637207 -1653.531982,4252.050293"
+              class="id_Provision_CARES_Foundation id_Mobile_Meals"
+              stroke-opacity="0.8" stroke="#c6e9c9"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3900.319336,2366.771729 C -4774.726563,593.649841 -3426.653809,-3377.643311 -1653.531982,-4252.050293"
+              class="id_Provision_CARES_Foundation id_Volunteer_Assisted_Transportation"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3900.319336,2366.771729 C -2876.702881,40.426270 2148.239990,-1913.666870 4474.585449,-890.050354"
+              class="id_Provision_CARES_Foundation id_East_Tennessee_Cancer_Community"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3900.319336,2366.771729 C -2303.518311,1141.503540 1929.585205,1698.802124 3154.853516,3295.603027"
+              class="id_Provision_CARES_Foundation id_Kathy_Hodges_Fund"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3900.319336,2366.771729 C -4310.517090,2186.280762 -4655.076660,1300.247925 -4474.585449,890.050354"
+              class="id_Provision_CARES_Foundation id_Second_Harvest"
+              stroke-opacity="0.8" stroke="#9299b0"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3900.319336,2366.771729 C -3232.519043,2352.200439 -2208.960938,3332.044189 -2194.389893,3999.844727"
+              class="id_Provision_CARES_Foundation id_Nancy&apos;s_List"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3900.319336,2366.771729 C -4563.782715,1964.172119 -4955.078125,365.078064 -4552.479004,-298.385284"
+              class="id_Provision_CARES_Foundation id_Susan_G._Komen_Hotline"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3900.319336,2366.771729 C -3734.091309,2396.082275 -3528.715332,2689.389893 -3558.025879,2855.617920"
+              class="id_Provision_CARES_Foundation id_Patient_Financial_Assistance_Programs"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 1466.486450,-4320.129395 C 1840.915283,-4438.186523 2579.644043,-4053.628662 2697.701172,-3679.199951"
+              class="id_Beardsley_Farm id_Centro_Hispano" stroke-opacity="0.8"
+              stroke="#819fb3"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 1466.486450,-4320.129395 C 1676.124023,-4401.652832 2112.865967,-4209.482422 2194.389893,-3999.844727"
+              class="id_Beardsley_Farm id_Bridge_Refugee_Services"
+              stroke-opacity="0.8" stroke="#6e97b2"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 1466.486450,-4320.129395 C 2556.918701,-1981.689575 684.907837,3161.618164 -1653.531982,4252.050293"
+              class="id_Beardsley_Farm id_Mobile_Meals" stroke-opacity="0.8"
+              stroke="#5b90b2"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 1466.486450,-4320.129395 C 3110.142334,-2445.899170 2764.280762,2830.929443 890.050354,4474.585449"
+              class="id_Beardsley_Farm id_Knoxville&apos;s_Community_Development_Corporation_(KCDC)"
+              stroke-opacity="0.8" stroke="#819fb3"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 1466.486450,-4320.129395 C 3259.132324,-2748.021240 3589.938477,2299.109619 2017.830444,4091.755371"
+              class="id_Beardsley_Farm id_Knox_Education_Foundation"
+              stroke-opacity="0.8" stroke="#4889b1"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 1466.486450,-4320.129395 C 1320.308105,-2089.878906 -2244.334961,1036.228760 -4474.585449,890.050354"
+              class="id_Beardsley_Farm id_Second_Harvest" stroke-opacity="0.8"
+              stroke="#274198"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 1466.486450,-4320.129395 C 761.834778,-2966.506348 -2325.576904,-1993.049438 -3679.199951,-2697.701172"
+              class="id_Beardsley_Farm id_Two_Gen_/_Resilient_Families"
+              stroke-opacity="0.8" stroke="#819fb3"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 1466.486450,-4320.129395 C 3239.876465,-3630.495850 4865.511230,64.040100 4175.877441,1837.430176"
+              class="id_Beardsley_Farm id_Health_Departments"
+              stroke-opacity="0.8" stroke="#5b90b2"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 890.050354,4474.585449 C -990.567566,2751.316650 -1226.591187,-2654.513428 496.677643,-4535.131348"
+              class="id_Knoxville&apos;s_Community_Development_Corporation_(KCDC) id_AmeriCorps"
+              stroke-opacity="0.8" stroke="#d9f0ca"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 890.050354,4474.585449 C 1019.784790,3289.988770 2991.280762,1707.695801 4175.877441,1837.430176"
+              class="id_Knoxville&apos;s_Community_Development_Corporation_(KCDC) id_Health_Departments"
+              stroke-opacity="0.8" stroke="#b3e1c8"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 890.050354,4474.585449 C -899.783813,4830.605469 -4118.565430,2679.884521 -4474.585449,890.050354"
+              class="id_Knoxville&apos;s_Community_Development_Corporation_(KCDC) id_Second_Harvest"
+              stroke-opacity="0.8" stroke="#7f92af"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 890.050354,4474.585449 C 437.790283,2626.351563 2531.750977,-824.389160 4379.984863,-1276.649292"
+              class="id_Knoxville&apos;s_Community_Development_Corporation_(KCDC) id_Dream_Center"
+              stroke-opacity="0.8" stroke="#d9f0ca"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 2194.389893,3999.844727 C 2028.469971,2921.846680 3396.587402,1055.970215 4474.585449,890.050354"
+              class="id_Knox_County_Schools id_Food_Policy_Council"
+              stroke-opacity="0.8" stroke="#67c4c5"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -4535.131348,496.677643 C -4444.347656,563.242981 -4408.020508,799.266602 -4474.585449,890.050354"
+              class="id_Senior_Citizens_Home_Assistance_Service id_Second_Harvest"
+              stroke-opacity="0.8" stroke="#9299b0"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 4561.161133,-99.524910 C 4907.680664,1193.703247 3487.618164,3653.324951 2194.389893,3999.844727"
+              class="id_Extension_Agency_for_Knox_County id_Knox_County_Schools"
+              stroke-opacity="0.8" stroke="#b3e1c8"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 4561.161133,-99.524910 C 4890.750977,1247.397217 3364.752686,3762.165527 2017.830444,4091.755371"
+              class="id_Extension_Agency_for_Knox_County id_Knox_Education_Foundation"
+              stroke-opacity="0.8" stroke="#b3e1c8"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 2017.830444,-4091.755371 C 3635.276855,-2402.148682 3527.036865,2558.430908 1837.430176,4175.877441"
+              class="id_Boys_and_Girls_Club_of_Tennessee_Valley id_Knoxville_-_Knox_County_CAC"
+              stroke-opacity="0.8" stroke="#a0dac7"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 2017.830444,-4091.755371 C 2952.319092,-1688.721680 749.501587,3317.561523 -1653.531982,4252.050293"
+              class="id_Boys_and_Girls_Club_of_Tennessee_Valley id_Mobile_Meals"
+              stroke-opacity="0.8" stroke="#8dd3c7"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 2017.830444,-4091.755371 C 1715.708496,-1796.911133 -2179.741211,1192.172363 -4474.585449,890.050354"
+              class="id_Boys_and_Girls_Club_of_Tennessee_Valley id_Second_Harvest"
+              stroke-opacity="0.8" stroke="#5983ad"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 2017.830444,-4091.755371 C 1193.768555,-3230.929199 -1333.563721,-3175.782715 -2194.389893,-3999.844727"
+              class="id_Boys_and_Girls_Club_of_Tennessee_Valley id_United_Way_of_Greater_Knoxville"
+              stroke-opacity="0.8" stroke="#67c4c5"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -4091.755371,2017.830444 C -4879.631836,1263.602783 -4930.105469,-1049.553467 -4175.877441,-1837.430176"
+              class="id_Real_Good_Kitchen id_Tennessee_Small_Business_Center"
+              stroke-opacity="0.8" stroke="#ecf7cb"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#ffffcc" r="40.0" cx="1837.4302"
+                class="id_Big_Brothers,_Big_Sisters" cy="-4175.8774"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="-1084.3818"
+                class="id_Wal-Mart" cy="-4431.503" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="-298.38528"
+                class="id_Y-12" cy="-4552.479" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="-890.05035"
+                class="id_Wesley_House" cy="-4474.5854" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="3679.2"
+                class="id_Joy_of_Music" cy="2697.7012" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffcc" r="40.0" cx="99.52491"
+                class="id_Legislative_Affairs_for_the_City_of_Knoxville"
+                cy="4561.161" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8dd3c7" r="64.0" cx="2366.7717"
+                class="id_Knox_County_Health_Department" cy="3900.3193"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="-3793.3699"
+                class="id_Policy_Makers" cy="2534.649" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="-4320.1294"
+                class="id_Tennessee_Department_of_Agriculture" cy="-1466.4865"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffcc" r="40.0" cx="-3793.3699"
+                class="id_Two_Chicks_and_a_Farm" cy="-2534.649" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="-1466.4865"
+                class="id_Market_Wagon" cy="4320.1294" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffcc" r="40.0" cx="-2366.7717"
+                class="id_UTK_Public_Health_Nutrition_Program" cy="-3900.3193"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="3295.603"
+                class="id_Child_and_Adult_Care_Food_Program" cy="-3154.8535"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="-4431.503"
+                class="id_Telemon_Corporation" cy="-1084.3818" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="4252.0503"
+                class="id_Head_Start_Program" cy="1653.532" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3068a7" r="104.0" cx="-3008.0989"
+                class="id_Nourish_Knoxville" cy="3430.0793" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b3e1c8" r="56.0" cx="-2534.649"
+                class="id_UTK_Medical_Center" cy="-3793.3699" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#67c4c5" r="72.0" cx="2194.39"
+                class="id_Knox_County_Schools" cy="3999.8447" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8dd3c7" r="64.0" cx="2017.8304"
+                class="id_Boys_and_Girls_Club_of_Tennessee_Valley"
+                cy="-4091.7554" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="-496.67764"
+                class="id_Local_Businesses" cy="4535.1313" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="4320.1294"
+                class="id_Downtown_Knoxville_Business_Alliance" cy="-1466.4865"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="2366.7717"
+                class="id_Business_Sponsors" cy="-3900.3193" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="4379.985"
+                class="id_Grayson_Subaru" cy="1276.6493" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="-2534.649"
+                class="id_Nonprofits_(Community_Booth)" cy="3793.3699"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b3e1c8" r="56.0" cx="-4379.985"
+                class="id_SNAP" cy="1276.6493" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#2a4e9d" r="112.0" cx="1466.4865"
+                class="id_Beardsley_Farm" cy="-4320.1294" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="-4561.161"
+                class="id_Soil_Conservation" cy="99.52491" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="4552.479"
+                class="id_Farm_Bureau" cy="298.38528" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="890.05035"
+                class="id_Bank_of_America" cy="-4474.5854" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#67c4c5" r="72.0" cx="2017.8304"
+                class="id_Knox_Education_Foundation" cy="4091.7554"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="-3008.0989"
+                class="id_UTK_Extension" cy="-3430.0793" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="4535.1313"
+                class="id_Farmers_Markets" cy="496.67764" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffcc" r="40.0" cx="-298.38528"
+                class="id_Little_Chefs,_Big_Change" cy="4552.479"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="-2855.618"
+                class="id_Nourish_Kids_Program" cy="3558.026" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="-4509.15"
+                class="id_Senior_Centers" cy="694.02454" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8dd3c7" r="64.0" cx="4175.8774"
+                class="id_Health_Departments" cy="1837.4302" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="-4431.503"
+                class="id_Schools" cy="1084.3818" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="-4175.8774"
+                class="id_Recreational_Centers" cy="1837.4302" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="3999.8447"
+                class="id_Housing_Centers" cy="2194.39" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffcc" r="40.0" cx="3679.2"
+                class="id_City_of_Knoxville_Office_of_Solid_Waste"
+                cy="-2697.7012" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="3900.3193"
+                class="id_Ijams" cy="2366.7717" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8dd3c7" r="64.0" cx="1466.4865"
+                class="id_Knoxville_Botanical_Garden_and_Aboretum"
+                cy="4320.1294" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffcc" r="40.0" cx="-1837.4302"
+                class="id_Museum_of_Infinite_Outcomes" cy="4175.8774"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="-3154.8535"
+                class="id_O&apos;Connor_Senior_Center" cy="3295.603"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="-4091.7554"
+                class="id_The_Native_Plant_Rescue_Squad" cy="-2017.8304"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b3e1c8" r="56.0" cx="2194.39"
+                class="id_Bridge_Refugee_Services" cy="-3999.8447"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="1653.532"
+                class="id_Knoxville_Area_Transit_(KAT)" cy="4252.0503"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b3e1c8" r="56.0" cx="1837.4302"
+                class="id_Knoxville_-_Knox_County_CAC" cy="4175.8774"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="3999.8447"
+                class="id_Community_Assistant_Teams" cy="-2194.39"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="1084.3818"
+                class="id_Knoxville_Farmers_Market" cy="4431.503"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffcc" r="40.0" cx="4091.7554"
+                class="id_Community_Garden_and_Cultural_Orientation_Coordinator_-_AmeriCorps_member"
+                cy="-2017.8304" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="3154.8535"
+                class="id_Cherokee_Health_Systems" cy="-3295.603"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#253494" r="120.0" cx="-4474.5854"
+                class="id_Second_Harvest" cy="890.05035" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#67c4c5" r="72.0" cx="1276.6493"
+                class="id_BattleField_Farm_and_Gardens" cy="-4379.985"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="3558.026"
+                class="id_City_of_Knoxville" cy="-2855.618" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="-1276.6493"
+                class="id_Magpies_Bakery" cy="4379.985" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="3793.3699"
+                class="id_Coffeehouses_in_Knoxville" cy="-2534.649"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b3e1c8" r="56.0" cx="4252.0503"
+                class="id_Concord_United_Methodist" cy="-1653.532"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="-4561.161"
+                class="id_St._Francis" cy="-99.52491" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="-4509.15"
+                class="id_Tabernacle_Baptist" cy="-694.02454" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="-496.67764"
+                class="id_Women_in_Agriculture" cy="-4535.1313" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b3e1c8" r="56.0" cx="-4320.1294"
+                class="id_SEEED" cy="1466.4865" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="4509.15"
+                class="id_Five_Points" cy="694.02454" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="1653.532"
+                class="id_Bethel_AME_Church" cy="-4252.0503" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="-3430.0793"
+                class="id_Pane_Avenue_Baptist_Church" cy="3008.0989"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffcc" r="40.0" cx="2534.649"
+                class="id_Catholic_Charities" cy="-3793.3699" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="3430.0793"
+                class="id_Churches" cy="-3008.0989" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="2697.7012"
+                class="id_Knights_of_Columbus" cy="3679.2" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffcc" r="40.0" cx="-4552.479"
+                class="id_Society_of_St._Andrew" cy="298.38528" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="3900.3193"
+                class="id_Cokesbury_United_Methodist_Church" cy="-2366.7717"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="-694.02454"
+                class="id_Westpark_Baptist_Church" cy="-4509.15"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="4431.503"
+                class="id_Good_Samaritan" cy="1084.3818" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="3558.026"
+                class="id_KARM" cy="2855.618" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="496.67764"
+                class="id_Ladies_of_Charity" cy="4535.1313" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="-4474.5854"
+                class="id_Teen_Challenge" cy="-890.05035" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="-1084.3818"
+                class="id_Love_Kitchen" cy="4431.503" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="-1466.4865"
+                class="id_Volunteer_Ministry_Center" cy="-4320.1294"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="-4252.0503"
+                class="id_Restoration_House_of_East_Tennessee" cy="1653.532"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="-2366.7717"
+                class="id_New_Life_United_Methodist_Church" cy="3900.3193"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="-4535.1313"
+                class="id_Susannah&apos;s_House" cy="-496.67764"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="-3900.3193"
+                class="id_Thrive_Lonsdale" cy="-2366.7717" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="4561.161"
+                class="id_Faith_Lutheran" cy="99.52491" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="4175.8774"
+                class="id_Concord_Baptist_Church" cy="-1837.4302"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="4320.1294"
+                class="id_Habitat_for_Humanity" cy="1466.4865" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="-2697.7012"
+                class="id_UTK_Kitchen_Garden" cy="-3679.2" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffcc" r="40.0" cx="-3679.2"
+                class="id_Pellissippi_State_Community_College" cy="2697.7012"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="-3430.0793"
+                class="id_UTK_College_of_Social_Work" cy="-3008.0989"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="4552.479"
+                class="id_East_Tennessee_State_University" cy="-298.38528"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="-99.52491"
+                class="id_Lincoln_Memorial_University" cy="4561.161"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="2855.618"
+                class="id_King_University" cy="3558.026" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="-3999.8447"
+                class="id_Three_Rivers_Market" cy="-2194.39" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="1084.3818"
+                class="id_Banks" cy="-4431.503" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="-3558.026"
+                class="id_USDA" cy="-2855.618" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="-2697.7012"
+                class="id_North_Carolina_A&amp;T" cy="3679.2" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="2534.649"
+                class="id_Knox_County_Foundation" cy="3793.3699"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffcc" r="40.0" cx="4561.161"
+                class="id_Extension_Agency_for_Knox_County" cy="-99.52491"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b3e1c8" r="56.0" cx="694.02454"
+                class="id_American_Heart_Association" cy="-4509.15"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#67c4c5" r="72.0" cx="4474.5854"
+                class="id_Food_Policy_Council" cy="890.05035" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffcc" r="40.0" cx="-4091.7554"
+                class="id_Real_Good_Kitchen" cy="2017.8304" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#41b6c4" r="80.0" cx="-2194.39"
+                class="id_United_Way_of_Greater_Knoxville" cy="-3999.8447"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="3430.0793"
+                class="id_KEC" cy="3008.0989" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="4431.503"
+                class="id_East_Knoxville_Business_and_Professional_Association"
+                cy="-1084.3818" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="298.38528"
+                class="id_After_School_Programs" cy="-4552.479" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b3e1c8" r="56.0" cx="-99.52491"
+                class="id_YMCA" cy="-4561.161" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="-1276.6493"
+                class="id_WIC" cy="-4379.985" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="4091.7554"
+                class="id_Housing" cy="2017.8304" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="694.02454"
+                class="id_Knoxville-Knox_County_CAC" cy="4509.15"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="-3295.603"
+                class="id_Office_on_Aging" cy="3154.8535" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffcc" r="40.0" cx="-3154.8535"
+                class="id_UTK_Dept_of_Public_Health" cy="-3295.603"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="-2855.618"
+                class="id_UTK_Food_Insecurity_Community_of_Scholars"
+                cy="-3558.026" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="3793.3699"
+                class="id_Interfaith_Health_Clinic" cy="2534.649"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffcc" r="40.0" cx="2855.618"
+                class="id_Century_Harvest_Farms_Foundation" cy="-3558.026"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="-2017.8304"
+                class="id_Mutual_Aid_Space_Knoxville" cy="4091.7554"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="4535.1313"
+                class="id_East_Tennessee_Harm_Reduction" cy="-496.67764"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="-890.05035"
+                class="id_Loudon_County_Health_Improvement_Council"
+                cy="4474.5854" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="3295.603"
+                class="id_Karen_Holst_(University_Assisted_Community_Schools_at_Pond_Gap)"
+                cy="3154.8535" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="298.38528"
+                class="id_Lauren_Woods_(UTK_Extension)" cy="4552.479"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="-694.02454"
+                class="id_Lori_Labotka_(linguistic_anthropologist)" cy="4509.15"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="3008.0989"
+                class="id_Kimberly_Pettigrew_(United_Way_of_Greater_Knoxville)"
+                cy="3430.0793" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="3008.0989"
+                class="id_Chad_Hellwinckel_(UTK_Dept_of_Agricultural_and_Resource_Economics)"
+                cy="-3430.0793" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="-4252.0503"
+                class="id_Tennessee_Department_of_Environment_and_Conservation"
+                cy="-1653.532" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffcc" r="40.0" cx="-3295.603"
+                class="id_UTK_Dept_of_Agricultural_and_Resource_Economics"
+                cy="-3154.8535" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="-2017.8304"
+                class="id_University_of_Tennessee" cy="-4091.7554"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="99.52491"
+                class="id_4-H_Club" cy="-4561.161" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffcc" r="40.0" cx="-3900.3193"
+                class="id_Provision_CARES_Foundation" cy="2366.7717"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="-4379.985"
+                class="id_Tennessee_Cancer_Specialists" cy="-1276.6493"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="4509.15"
+                class="id_East_Tennessee_Children&apos;s_Hospital"
+                cy="-694.02454" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="-1837.4302"
+                class="id_University_of_Tennessee_Cancer_Institute"
+                cy="-4175.8774" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="-3999.8447"
+                class="id_Provision_Radiation_Therapy" cy="2194.39"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="1276.6493"
+                class="id_Knoxville_Breast_Cancer_Center" cy="4379.985"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8dd3c7" r="64.0" cx="-1653.532"
+                class="id_Mobile_Meals" cy="4252.0503" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="-1653.532"
+                class="id_Volunteer_Assisted_Transportation" cy="-4252.0503"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="4474.5854"
+                class="id_East_Tennessee_Cancer_Community" cy="-890.05035"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="3154.8535"
+                class="id_Kathy_Hodges_Fund" cy="3295.603" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="-2194.39"
+                class="id_Nancy&apos;s_List" cy="3999.8447" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="-4552.479"
+                class="id_Susan_G._Komen_Hotline" cy="-298.38528"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="-3558.026"
+                class="id_Patient_Financial_Assistance_Programs" cy="2855.618"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="2697.7012"
+                class="id_Centro_Hispano" cy="-3679.2" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="890.05035"
+                class="id_Knoxville&apos;s_Community_Development_Corporation_(KCDC)"
+                cy="4474.5854" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="-3679.2"
+                class="id_Two_Gen_/_Resilient_Families" cy="-2697.7012"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="496.67764"
+                class="id_AmeriCorps" cy="-4535.1313" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="4379.985"
+                class="id_Dream_Center" cy="-1276.6493" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffcc" r="40.0" cx="-4535.1313"
+                class="id_Senior_Citizens_Home_Assistance_Service"
+                cy="496.67764" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d9f0ca" r="48.0" cx="-4175.8774"
+                class="id_Tennessee_Small_Business_Center" cy="-1837.4302"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="48" x="1837.4302" y="-4164.6157" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Big_Brothers,_Big_Sisters">
+            Big Brothers, Big Sisters
+        </text>
+        <text font-size="48" x="-1084.3818" y="-4422.7725" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Wal-Mart">
+            Wal-Mart
+        </text>
+        <text font-size="48" x="-298.38528" y="-4543.854" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Y-12">
+            Y-12
+        </text>
+        <text font-size="48" x="-890.05035" y="-4463.47" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Wesley_House">
+            Wesley House
+        </text>
+        <text font-size="48" x="3679.2" y="2708.963" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Joy_of_Music">
+            Joy of Music
+        </text>
+        <text font-size="48" x="99.52491" y="4572.423" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Legislative_Affairs_for_the_City_of_Knoxville">
+            Legislative Affairs for the City of Knoxville
+        </text>
+        <text font-size="48" x="2366.7717" y="3911.581" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Knox_County_Health_Department">
+            Knox County Health Department
+        </text>
+        <text font-size="48" x="-3793.3699" y="2545.7642" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Policy_Makers">
+            Policy Makers
+        </text>
+        <text font-size="48" x="-4320.1294" y="-1455.2247" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Tennessee_Department_of_Agriculture">
+            Tennessee Department of Agriculture
+        </text>
+        <text font-size="48" x="-3793.3699" y="-2525.766" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Two_Chicks_and_a_Farm">
+            Two Chicks and a Farm
+        </text>
+        <text font-size="48" x="-1466.4865" y="4331.2446" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Market_Wagon">
+            Market Wagon
+        </text>
+        <text font-size="48" x="-2366.7717" y="-3889.204" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_UTK_Public_Health_Nutrition_Program">
+            UTK Public Health Nutrition Program
+        </text>
+        <text font-size="48" x="3295.603" y="-3143.5918" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Child_and_Adult_Care_Food_Program">
+            Child and Adult Care Food Program
+        </text>
+        <text font-size="48" x="-4431.503" y="-1073.2607" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Telemon_Corporation">
+            Telemon Corporation
+        </text>
+        <text font-size="48" x="4252.0503" y="1664.7937" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Head_Start_Program">
+            Head Start Program
+        </text>
+        <text font-size="48" x="-3008.0989" y="3438.8098" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Nourish_Knoxville">
+            Nourish Knoxville
+        </text>
+        <text font-size="48" x="-2534.649" y="-3784.487" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_UTK_Medical_Center">
+            UTK Medical Center
+        </text>
+        <text font-size="48" x="2194.39" y="4011.1064" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Knox_County_Schools">
+            Knox County Schools
+        </text>
+        <text font-size="48" x="2017.8304" y="-4080.4937" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Boys_and_Girls_Club_of_Tennessee_Valley">
+            Boys and Girls Club of Tennessee Valley
+        </text>
+        <text font-size="48" x="-496.67764" y="4543.862" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Local_Businesses">
+            Local Businesses
+        </text>
+        <text font-size="48" x="4320.1294" y="-1457.756" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Downtown_Knoxville_Business_Alliance">
+            Downtown Knoxville Business Alliance
+        </text>
+        <text font-size="48" x="2366.7717" y="-3889.1982" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Business_Sponsors">
+            Business Sponsors
+        </text>
+        <text font-size="48" x="4379.985" y="1287.911" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Grayson_Subaru">
+            Grayson Subaru
+        </text>
+        <text font-size="48" x="-2534.649" y="3804.6316" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Nonprofits_(Community_Booth)">
+            Nonprofits (Community Booth)
+        </text>
+        <text font-size="48" x="-4379.985" y="1285.5321" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_SNAP">
+            SNAP
+        </text>
+        <text font-size="48" x="1466.4865" y="-4309.014" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Beardsley_Farm">
+            Beardsley Farm
+        </text>
+        <text font-size="48" x="-4561.161" y="108.40772" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Soil_Conservation">
+            Soil Conservation
+        </text>
+        <text font-size="48" x="4552.479" y="307.11575" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Farm_Bureau">
+            Farm Bureau
+        </text>
+        <text font-size="48" x="890.05035" y="-4465.7085" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Bank_of_America">
+            Bank of America
+        </text>
+        <text font-size="48" x="2017.8304" y="4100.486" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Knox_Education_Foundation">
+            Knox Education Foundation
+        </text>
+        <text font-size="48" x="-3008.0989" y="-3421.343" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_UTK_Extension">
+            UTK Extension
+        </text>
+        <text font-size="48" x="4535.1313" y="505.4081" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Farmers_Markets">
+            Farmers Markets
+        </text>
+        <text font-size="48" x="-298.38528" y="4563.7407" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Little_Chefs,_Big_Change">
+            Little Chefs, Big Change
+        </text>
+        <text font-size="48" x="-2855.618" y="3569.141" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Nourish_Kids_Program">
+            Nourish Kids Program
+        </text>
+        <text font-size="48" x="-4509.15" y="702.90735" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Senior_Centers">
+            Senior Centers
+        </text>
+        <text font-size="48" x="4175.8774" y="1848.4048" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Health_Departments">
+            Health Departments
+        </text>
+        <text font-size="48" x="-4431.503" y="1093.2646" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Schools">
+            Schools
+        </text>
+        <text font-size="48" x="-4175.8774" y="1846.313" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Recreational_Centers">
+            Recreational Centers
+        </text>
+        <text font-size="48" x="3999.8447" y="2205.6516" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Housing_Centers">
+            Housing Centers
+        </text>
+        <text font-size="48" x="3679.2" y="-2686.4336" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_City_of_Knoxville_Office_of_Solid_Waste">
+            City of Knoxville Office of Solid Waste
+        </text>
+        <text font-size="48" x="3900.3193" y="2377.887" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Ijams">
+            Ijams
+        </text>
+        <text font-size="48" x="1466.4865" y="4329.012" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Knoxville_Botanical_Garden_and_Aboretum">
+            Knoxville Botanical Garden and Aboretum
+        </text>
+        <text font-size="48" x="-1837.4302" y="4184.766" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Museum_of_Infinite_Outcomes">
+            Museum of Infinite Outcomes
+        </text>
+        <text font-size="48" x="-3154.8535" y="3304.4917" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_O&apos;Connor_Senior_Center">
+            O&apos;Connor Senior Center
+        </text>
+        <text font-size="48" x="-4091.7554" y="-2006.7094" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_The_Native_Plant_Rescue_Squad">
+            The Native Plant Rescue Squad
+        </text>
+        <text font-size="48" x="2194.39" y="-3988.583" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Bridge_Refugee_Services">
+            Bridge Refugee Services
+        </text>
+        <text font-size="48" x="1653.532" y="4263.312" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Knoxville_Area_Transit_(KAT)">
+            Knoxville Area Transit (KAT)
+        </text>
+        <text font-size="48" x="1837.4302" y="4187.139" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Knoxville_-_Knox_County_CAC">
+            Knoxville - Knox County CAC
+        </text>
+        <text font-size="48" x="3999.8447" y="-2183.1282" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Community_Assistant_Teams">
+            Community Assistant Teams
+        </text>
+        <text font-size="48" x="1084.3818" y="4440.2334" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Knoxville_Farmers_Market">
+            Knoxville Farmers Market
+        </text>
+        <text font-size="48" x="4091.7554" y="-2006.5629" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Community_Garden_and_Cultural_Orientation_Coordinator_-_AmeriCorps_member">
+            Community Garden and Cultural Orientation Coordinator - AmeriCorps
+            member
+        </text>
+        <text font-size="48" x="3154.8535" y="-3284.3413" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Cherokee_Health_Systems">
+            Cherokee Health Systems
+        </text>
+        <text font-size="48" x="-4474.5854" y="898.93317" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Second_Harvest">
+            Second Harvest
+        </text>
+        <text font-size="48" x="1276.6493" y="-4371.102" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_BattleField_Farm_and_Gardens">
+            BattleField Farm and Gardens
+        </text>
+        <text font-size="48" x="3558.026" y="-2844.3562" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_City_of_Knoxville">
+            City of Knoxville
+        </text>
+        <text font-size="48" x="-1276.6493" y="4391.1" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Magpies_Bakery">
+            Magpies Bakery
+        </text>
+        <text font-size="48" x="3793.3699" y="-2525.766" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Coffeehouses_in_Knoxville">
+            Coffeehouses in Knoxville
+        </text>
+        <text font-size="48" x="4252.0503" y="-1644.6492" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Concord_United_Methodist">
+            Concord United Methodist
+        </text>
+        <text font-size="48" x="-4561.161" y="-90.6421" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_St._Francis">
+            St. Francis
+        </text>
+        <text font-size="48" x="-4509.15" y="-683.0499" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Tabernacle_Baptist">
+            Tabernacle Baptist
+        </text>
+        <text font-size="48" x="-496.67764" y="-4524.016" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Women_in_Agriculture">
+            Women in Agriculture
+        </text>
+        <text font-size="48" x="-4320.1294" y="1475.3693" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_SEEED">
+            SEEED
+        </text>
+        <text font-size="48" x="4509.15" y="702.755" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Five_Points">
+            Five Points
+        </text>
+        <text font-size="48" x="1653.532" y="-4243.1675" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Bethel_AME_Church">
+            Bethel AME Church
+        </text>
+        <text font-size="48" x="-3430.0793" y="3019.22" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Pane_Avenue_Baptist_Church">
+            Pane Avenue Baptist Church
+        </text>
+        <text font-size="48" x="2534.649" y="-3784.487" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Catholic_Charities">
+            Catholic Charities
+        </text>
+        <text font-size="48" x="3430.0793" y="-2999.216" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Churches">
+            Churches
+        </text>
+        <text font-size="48" x="2697.7012" y="3690.4617" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Knights_of_Columbus">
+            Knights of Columbus
+        </text>
+        <text font-size="48" x="-4552.479" y="309.647" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Society_of_St._Andrew">
+            Society of St. Andrew
+        </text>
+        <text font-size="48" x="3900.3193" y="-2355.51" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Cokesbury_United_Methodist_Church">
+            Cokesbury United Methodist Church
+        </text>
+        <text font-size="48" x="-694.02454" y="-4498.029" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Westpark_Baptist_Church">
+            Westpark Baptist Church
+        </text>
+        <text font-size="48" x="4431.503" y="1093.2646" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Good_Samaritan">
+            Good Samaritan
+        </text>
+        <text font-size="48" x="3558.026" y="2864.2078" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_KARM">
+            KARM
+        </text>
+        <text font-size="48" x="496.67764" y="4546.393" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Ladies_of_Charity">
+            Ladies of Charity
+        </text>
+        <text font-size="48" x="-4474.5854" y="-878.78864" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Teen_Challenge">
+            Teen Challenge
+        </text>
+        <text font-size="48" x="-1084.3818" y="4440.2334" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Love_Kitchen">
+            Love Kitchen
+        </text>
+        <text font-size="48" x="-1466.4865" y="-4308.8677" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Volunteer_Ministry_Center">
+            Volunteer Ministry Center
+        </text>
+        <text font-size="48" x="-4252.0503" y="1662.4089" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Restoration_House_of_East_Tennessee">
+            Restoration House of East Tennessee
+        </text>
+        <text font-size="48" x="-2366.7717" y="3909.2021" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_New_Life_United_Methodist_Church">
+            New Life United Methodist Church
+        </text>
+        <text font-size="48" x="-4535.1313" y="-487.79483" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Susannah&apos;s_House">
+            Susannah&apos;s House
+        </text>
+        <text font-size="48" x="-3900.3193" y="-2358.0413" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Thrive_Lonsdale">
+            Thrive Lonsdale
+        </text>
+        <text font-size="48" x="4561.161" y="108.25538" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Faith_Lutheran">
+            Faith Lutheran
+        </text>
+        <text font-size="48" x="4175.8774" y="-1826.3091" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Concord_Baptist_Church">
+            Concord Baptist Church
+        </text>
+        <text font-size="48" x="4320.1294" y="1477.7482" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Habitat_for_Humanity">
+            Habitat for Humanity
+        </text>
+        <text font-size="48" x="-2697.7012" y="-3670.3171" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_UTK_Kitchen_Garden">
+            UTK Kitchen Garden
+        </text>
+        <text font-size="48" x="-3679.2" y="2708.963" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Pellissippi_State_Community_College">
+            Pellissippi State Community College
+        </text>
+        <text font-size="48" x="-3430.0793" y="-2996.8372" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_UTK_College_of_Social_Work">
+            UTK College of Social Work
+        </text>
+        <text font-size="48" x="4552.479" y="-287.12357" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_East_Tennessee_State_University">
+            East Tennessee State University
+        </text>
+        <text font-size="48" x="-99.52491" y="4572.2764" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Lincoln_Memorial_University">
+            Lincoln Memorial University
+        </text>
+        <text font-size="48" x="2855.618" y="3569.141" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_King_University">
+            King University
+        </text>
+        <text font-size="48" x="-3999.8447" y="-2185.6594" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Three_Rivers_Market">
+            Three Rivers Market
+        </text>
+        <text font-size="48" x="1084.3818" y="-4422.7725" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Banks">
+            Banks
+        </text>
+        <text font-size="48" x="-3558.026" y="-2846.735" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_USDA">
+            USDA
+        </text>
+        <text font-size="48" x="-2697.7012" y="3688.1355" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_North_Carolina_A&amp;T">
+            North Carolina A&amp;T
+        </text>
+        <text font-size="48" x="2534.649" y="3804.6316" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Knox_County_Foundation">
+            Knox County Foundation
+        </text>
+        <text font-size="48" x="4561.161" y="-88.26319" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Extension_Agency_for_Knox_County">
+            Extension Agency for Knox County
+        </text>
+        <text font-size="48" x="694.02454" y="-4500.4194" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_American_Heart_Association">
+            American Heart Association
+        </text>
+        <text font-size="48" x="4474.5854" y="901.3121" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Food_Policy_Council">
+            Food Policy Council
+        </text>
+        <text font-size="48" x="-4091.7554" y="2026.7133" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Real_Good_Kitchen">
+            Real Good Kitchen
+        </text>
+        <text font-size="48" x="-2194.39" y="-3988.583" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_United_Way_of_Greater_Knoxville">
+            United Way of Greater Knoxville
+        </text>
+        <text font-size="48" x="3430.0793" y="3016.9817" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_KEC">
+            KEC
+        </text>
+        <text font-size="48" x="4431.503" y="-1075.5049" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_East_Knoxville_Business_and_Professional_Association">
+            East Knoxville Business and Professional Association
+        </text>
+        <text font-size="48" x="298.38528" y="-4541.2173" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_After_School_Programs">
+            After School Programs
+        </text>
+        <text font-size="48" x="-99.52491" y="-4552.2783" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_YMCA">
+            YMCA
+        </text>
+        <text font-size="48" x="-1276.6493" y="-4371.102" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_WIC">
+            WIC
+        </text>
+        <text font-size="48" x="4091.7554" y="2028.9457" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Housing">
+            Housing
+        </text>
+        <text font-size="48" x="694.02454" y="4520.4116" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Knoxville-Knox_County_CAC">
+            Knoxville-Knox County CAC
+        </text>
+        <text font-size="48" x="-3295.603" y="3166.121" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Office_on_Aging">
+            Office on Aging
+        </text>
+        <text font-size="48" x="-3154.8535" y="-3284.482" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_UTK_Dept_of_Public_Health">
+            UTK Dept of Public Health
+        </text>
+        <text font-size="48" x="-2855.618" y="-3546.7642" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_UTK_Food_Insecurity_Community_of_Scholars">
+            UTK Food Insecurity Community of Scholars
+        </text>
+        <text font-size="48" x="3793.3699" y="2543.5317" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Interfaith_Health_Clinic">
+            Interfaith Health Clinic
+        </text>
+        <text font-size="48" x="2855.618" y="-3546.7642" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Century_Harvest_Farms_Foundation">
+            Century Harvest Farms Foundation
+        </text>
+        <text font-size="48" x="-2017.8304" y="4102.8765" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Mutual_Aid_Space_Knoxville">
+            Mutual Aid Space Knoxville
+        </text>
+        <text font-size="48" x="4535.1313" y="-487.94717" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_East_Tennessee_Harm_Reduction">
+            East Tennessee Harm Reduction
+        </text>
+        <text font-size="48" x="-890.05035" y="4485.847" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Loudon_County_Health_Improvement_Council">
+            Loudon County Health Improvement Council
+        </text>
+        <text font-size="48" x="3295.603" y="3166.1152" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Karen_Holst_(University_Assisted_Community_Schools_at_Pond_Gap)">
+            Karen Holst (University Assisted Community Schools at Pond Gap)
+        </text>
+        <text font-size="48" x="298.38528" y="4563.7407" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Lauren_Woods_(UTK_Extension)">
+            Lauren Woods (UTK Extension)
+        </text>
+        <text font-size="48" x="-694.02454" y="4520.4116" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Lori_Labotka_(linguistic_anthropologist)">
+            Lori Labotka (linguistic anthropologist)
+        </text>
+        <text font-size="48" x="3008.0989" y="3441.341" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Kimberly_Pettigrew_(United_Way_of_Greater_Knoxville)">
+            Kimberly Pettigrew (United Way of Greater Knoxville)
+        </text>
+        <text font-size="48" x="3008.0989" y="-3418.8176" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Chad_Hellwinckel_(UTK_Dept_of_Agricultural_and_Resource_Economics)">
+            Chad Hellwinckel (UTK Dept of Agricultural and Resource Economics)
+        </text>
+        <text font-size="48" x="-4252.0503" y="-1642.4109" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Tennessee_Department_of_Environment_and_Conservation">
+            Tennessee Department of Environment and Conservation
+        </text>
+        <text font-size="48" x="-3295.603" y="-3143.5918" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_UTK_Dept_of_Agricultural_and_Resource_Economics">
+            UTK Dept of Agricultural and Resource Economics
+        </text>
+        <text font-size="48" x="-2017.8304" y="-4080.4937" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_University_of_Tennessee">
+            University of Tennessee
+        </text>
+        <text font-size="48" x="99.52491" y="-4552.2783" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_4-H_Club">
+            4-H Club
+        </text>
+        <text font-size="48" x="-3900.3193" y="2375.6545" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Provision_CARES_Foundation">
+            Provision CARES Foundation
+        </text>
+        <text font-size="48" x="-4379.985" y="-1265.5282" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Tennessee_Cancer_Specialists">
+            Tennessee Cancer Specialists
+        </text>
+        <text font-size="48" x="4509.15" y="-682.90344" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_East_Tennessee_Children&apos;s_Hospital">
+            East Tennessee Children&apos;s Hospital
+        </text>
+        <text font-size="48" x="-1837.4302" y="-4164.6157" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_University_of_Tennessee_Cancer_Institute">
+            University of Tennessee Cancer Institute
+        </text>
+        <text font-size="48" x="-3999.8447" y="2205.5051" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Provision_Radiation_Therapy">
+            Provision Radiation Therapy
+        </text>
+        <text font-size="48" x="1276.6493" y="4388.8677" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Knoxville_Breast_Cancer_Center">
+            Knoxville Breast Cancer Center
+        </text>
+        <text font-size="48" x="-1653.532" y="4260.781" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Mobile_Meals">
+            Mobile Meals
+        </text>
+        <text font-size="48" x="-1653.532" y="-4241.0757" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Volunteer_Assisted_Transportation">
+            Volunteer Assisted Transportation
+        </text>
+        <text font-size="48" x="4474.5854" y="-878.78864" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_East_Tennessee_Cancer_Community">
+            East Tennessee Cancer Community
+        </text>
+        <text font-size="48" x="3154.8535" y="3306.7183" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Kathy_Hodges_Fund">
+            Kathy Hodges Fund
+        </text>
+        <text font-size="48" x="-2194.39" y="4010.96" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Nancy&apos;s_List">
+            Nancy&apos;s List
+        </text>
+        <text font-size="48" x="-4552.479" y="-289.50247" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Susan_G._Komen_Hotline">
+            Susan G. Komen Hotline
+        </text>
+        <text font-size="48" x="-3558.026" y="2866.7332" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Patient_Financial_Assistance_Programs">
+            Patient Financial Assistance Programs
+        </text>
+        <text font-size="48" x="2697.7012" y="-3668.0789" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Centro_Hispano">
+            Centro Hispano
+        </text>
+        <text font-size="48" x="890.05035" y="4485.847" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Knoxville&apos;s_Community_Development_Corporation_(KCDC)">
+            Knoxville&apos;s Community Development Corporation (KCDC)
+        </text>
+        <text font-size="48" x="-3679.2" y="-2688.8184" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Two_Gen_/_Resilient_Families">
+            Two Gen / Resilient Families
+        </text>
+        <text font-size="48" x="496.67764" y="-4524.0103" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_AmeriCorps">
+            AmeriCorps
+        </text>
+        <text font-size="48" x="4379.985" y="-1267.7665" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Dream_Center">
+            Dream Center
+        </text>
+        <text font-size="48" x="-4535.1313" y="505.56046" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Senior_Citizens_Home_Assistance_Service">
+            Senior Citizens Home Assistance Service
+        </text>
+        <text font-size="48" x="-4175.8774" y="-1828.5474" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Tennessee_Small_Business_Center">
+            Tennessee Small Business Center
+        </text>
+    </g>
+</svg>
